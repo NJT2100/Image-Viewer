@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>Icons/left-arrow.png</file>
+        <file>Icons/right-arrow.png</file>
+        <file>Icons/zoom-in.png</file>
+        <file>Icons/zoom-out.png</file>
+        <file>Icons/fit-to-screen.png</file>
+        <file>Icons/original-size.png</file>
+    </qresource>
+</RCC>
